@@ -81,7 +81,7 @@ Start a website.
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-black"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <img class="img-fluid" src="assets/img/letöltés (2).jpg" alt=""/>
+                            <img class="img-fluid" src="assets/img/letöltés (2).png" alt=""/>
                         </div>
                     </div>                    
                     <!-- Portfolio Item 6-->
