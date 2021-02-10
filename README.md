@@ -222,7 +222,6 @@ Mathematical applications of the SVD include computing the pseudoinverse, matrix
                                     <img class="img-fluid rounded mb-5" src="" alt="" />
                                     <!-- Portfolio Modal - Text-->
                                     <p class="mb-5">
-                               
                                     <button class="btn btn-secondary" data-dismiss="modal">
                                         <i class="fas fa-times fa-fw"></i>
                                         Close
