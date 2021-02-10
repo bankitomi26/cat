@@ -82,8 +82,7 @@ Start a website.
                             </div>
                             <img class="img-fluid" src="" alt="assets/img/letöltés (2).jpg" alt=""/>
                         </div>
-                    </div>
-                    
+                    </div>                   
                     <!-- Portfolio Item 6-->
                     <div class="col-md-6 col-lg-4">
                         <div class="portfolio-item mx-auto" data-toggle="modal" data-target="#portfolioModal6">
@@ -121,11 +120,7 @@ Start a website.
                     </a>
                 </div>
             </div>
-        </section>
-        <!-- Contact Section-->
-        
-                
-        
+        </section>        
         <!-- Portfolio Modals-->
         <!-- Portfolio Modal 1-->
         <div class="portfolio-modal modal fade" id="portfolioModal1" tabindex="-1" role="dialog" aria-labelledby="portfolioModal1Label" aria-hidden="true">
@@ -219,8 +214,7 @@ Start a website.
                                     <img class="img-fluid rounded mb-5" src="" alt="" />
                                     <!-- Portfolio Modal - Text-->
                                     <p class="mb-5">
-                               
-                                    <button class="btn btn-secondary" data-dismiss="modal">
+                               <button class="btn btn-secondary" data-dismiss="modal">
                                         <i class="fas fa-times fa-fw"></i>
                                         Close
                                     </button>
