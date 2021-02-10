@@ -110,8 +110,8 @@ Start a website.
                 </div>
                 <!-- About Section Content-->
                 <div class="row">
-                    <div class="col-lg-4 ml-auto"><p class="lead"></p>"SVD"</p></div>
-                    <div class="col-lg-4 mr-auto"><p class="lead"></p>"Szinguláris értékek szerinti felbontás"</div>
+                    <div class="col-lg-4 ml-auto"><p class="lead"></p>"In the explanation, we will examine the following features of the postmodern characteristic features: the new depthlessness, for which both contemporary theory and the whole new culture of image or simulacrum; consequently, the marginalization of historicity, both in our relationship to our common History, in our new format of personal temporality, and in the schizophrenic structure (in the Lacanian sense) defines a new form of syntax and "</p></div>
+                    <div class="col-lg-4 mr-auto"><p class="lead"></p>"syntagmatic relations of temporal arts; a whole new kind of basic emotional tone, which will be called intensities, which can best be grasped by turning to his majestic earlier theories; the deep essential connection of all this to the whole new technology, which in itself is a signal of a new world economic system; and, after a brief overview of the postmodern versions of the lived experience of an established space, we turn to the work of political works that can be realized in the new world space of the idea of late or multinational capital."</div>
                 </div>
                 <!-- About Section Button-->
                 <div class="text-center mt-4">
