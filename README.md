@@ -71,7 +71,7 @@ Start a website.
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-black"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <img class="img-fluid" src="C:\Users\Bánki Zsolt\Downloads\startbootstrap-freelancer-gh-pages\startbootstrap-freelancer-gh-pages\assets\img\IMG_20210208_215947.jpg" alt="" />
+                            <img class="img-fluid" src="assets/img/IMG_20210208_215947.jpg" alt="" />
                         </div>
                     </div>
                     <!-- Portfolio Item 2-->
@@ -80,7 +80,7 @@ Start a website.
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-black"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <img class="img-fluid" src="C:\Users\Bánki Zsolt\Downloads\startbootstrap-freelancer-gh-pages\startbootstrap-freelancer-gh-pages\assets\img\letöltés (2).jpg" alt="" />
+                            <img class="img-fluid" src="" alt="assets/img/letöltés (2).jpg" />
                         </div>
                     </div>
                     
@@ -90,7 +90,7 @@ Start a website.
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-0"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <img class="img-fluid" src="C:\Users\Bánki Zsolt\Downloads\startbootstrap-freelancer-gh-pages\startbootstrap-freelancer-gh-pages\assets\img\letöltés (1).jpg" alt="" />
+                            <img class="img-fluid" src="" alt="assets/img/letöltés (1).jpg" />
                         </div>
                     </div>
                 </div>
