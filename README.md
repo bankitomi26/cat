@@ -80,7 +80,7 @@ Start a website.
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-black"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <img class="img-fluid" src="" alt="letöltés (2).jpg" />
+                            <img class="img-fluid" src="" alt="assets/img/letöltés (2).jpg" alt=""/>
                         </div>
                     </div>
                     
@@ -90,7 +90,7 @@ Start a website.
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-0"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <img class="img-fluid" src="" alt="letöltés (1).jpg" />
+                            <img class="img-fluid" src="" alt="assets/img/letöltés (1).jpg" alt=""/>
                         </div>
                     </div>
                 </div>
