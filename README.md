@@ -1,7 +1,6 @@
 # monk
 Start a website.
 # monk
-Start a website.
 <!DOCTYPE html>
 <html lang="hu">
     <head>
@@ -180,7 +179,7 @@ Start a website.
                                         <div class="divider-custom-line"></div>
                                     </div>
                                     <!-- Portfolio Modal - Image-->
-                                    <img class="" alt="" />
+                                    <img class="img-fluid rounded mb-5" src="1.png" alt="" />
                                     <!-- Portfolio Modal - Text-->
                                     <p class="mb-5">
                                               <button class="btn btn-secondary" data-dismiss="modal">
@@ -214,7 +213,7 @@ Start a website.
                                         <div class="divider-custom-line"></div>
                                     </div>
                                     <!-- Portfolio Modal - Image-->
-                                    <img class="img-fluid rounded mb-5" src="" alt="" />
+                                    <img class="img-fluid rounded mb-5" src="1.png" alt="" />
                                     <!-- Portfolio Modal - Text-->
                                     <p class="mb-5">
                                     <button class="btn btn-secondary" data-dismiss="modal">
