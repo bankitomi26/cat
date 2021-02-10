@@ -72,21 +72,29 @@ Start a website.
                                 <div class="portfolio-item-caption-content text-center text-black"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
                             <img class="img-fluid" src="assets/img/IMG_20210208_215947.jpg" alt="" />
+                        </div>
+                    </div>
                     <!-- Portfolio Item 2-->
                     <div class="col-md-6 col-lg-4 mb-5">
                         <div class="portfolio-item mx-auto" data-toggle="modal" data-target="#portfolioModal2">
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-black"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <img class="img-fluid" src="" alt="assets/img/IMG_20210208_215947.jpg" alt=""/>                                
+                            <img class="img-fluid" src="" alt="assets/img/letöltés (2).jpg" alt=""/>
+                        </div>
+                    </div>                    
                     <!-- Portfolio Item 6-->
                     <div class="col-md-6 col-lg-4">
                         <div class="portfolio-item mx-auto" data-toggle="modal" data-target="#portfolioModal6">
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-0"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <img class="img-fluid" src="" alt="assets/img/IMG_20210208_215947.jpg" alt=""/>
-                        </div>                  
+                            <img class="img-fluid" src="" alt="assets/img/letöltés (1).jpg" alt=""/>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
         <!-- About Section-->
         <section class="page-section bg-primary text-black mb-0" id="about">
             <div class="container">
@@ -112,7 +120,11 @@ Start a website.
                     </a>
                 </div>
             </div>
-        </section>        
+        </section>
+        <!-- Contact Section-->
+        
+                
+        
         <!-- Portfolio Modals-->
         <!-- Portfolio Modal 1-->
         <div class="portfolio-modal modal fade" id="portfolioModal1" tabindex="-1" role="dialog" aria-labelledby="portfolioModal1Label" aria-hidden="true">
@@ -206,7 +218,8 @@ Start a website.
                                     <img class="img-fluid rounded mb-5" src="" alt="" />
                                     <!-- Portfolio Modal - Text-->
                                     <p class="mb-5">
-                               <button class="btn btn-secondary" data-dismiss="modal">
+                               
+                                    <button class="btn btn-secondary" data-dismiss="modal">
                                         <i class="fas fa-times fa-fw"></i>
                                         Close
                                     </button>
