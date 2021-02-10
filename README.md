@@ -39,7 +39,7 @@ Start a website.
         <header class="masthead bg-primary text-black text-center">
             <div class="container d-flex align-items-center flex-column">
                 <!-- Masthead Avatar Image-->
-                <img class="masthead-avatar mb-5" src="C:\Users\Bánki Zsolt\Downloads\startbootstrap-freelancer-gh-pages\startbootstrap-freelancer-gh-pages\assets\img\portfolio\tumblr_inline_pdhhy2RhSy1s2dlyn_500.png" alt="" />
+                <img class="masthead-avatar mb-5" src="assets/img/portfolio/tumblr_inline_pdhhy2RhSy1s2dlyn_500.png" alt="" />
                 <!-- Masthead Heading-->
                 <h1 class="masthead-heading text-uppercase mb-0"> Negation in the matrix </h1>
                 <!-- Icon Divider-->
