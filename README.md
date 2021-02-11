@@ -144,12 +144,12 @@ Start a website.
                                         <div class="divider-custom-line"></div>
                                     </div>
                                     <!-- Portfolio Modal - Image-->
-                                    <div class="row">
-                    <div class="col-lg-4 ml-auto"><p class="lead"></p>"Richter's photographic works are generally characterized by a complete disregard for messages and ideologies that he is so fond of. This in itself does not preclude the observer from carrying out various image association exercises with the help of the paintings, but whatever result he achieves, he only has to look for the starting point in himself. </p></div>
-                    <div class="col-lg-4 mr-auto"><p class="lead"></p>Richter argues that his art was not conceived in the spirit of the modern or the postmodern, but guided by the keywords of beauty and secret. Anyone who hears this may think th.at it must be just some kind of joke, maybe just corrosive irony. Yet Richter is, in fact, always distancing himself from the postmodern or avant-garde adjectives - if they try to define t hem in relation to him."</div>
+                                    <div class="text center mt-4">
+                    <div class="col-lg-4 ml-auto"><p class="lead"></p>"Richter's photographic works are generally characterized by a complete disregard for messages and ideologies that he is so fond of. This in itself does not preclude the observer from carrying out various image association exercises with the help of the paintings, but whatever result he achieves, he only has to look for the starting point in himself. Richter argues that his art was not conceived in the spirit of the modern or the postmodern, but guided by the keywords of beauty and secret. Anyone who hears this may think th.at it must be just some kind of joke, maybe just corrosive irony. Yet Richter is, in fact, always distancing himself from the postmodern or avant-garde adjectives - if they try to define t hem in relation to him. </p></div>
+                    <div class="col-lg-4 mr-auto"><p class="lead"></p>"</div>
                 </div>  
                                 </div>
-                            <img class="img-fluid" src="assets/img/letöltés (1).jpg" alt=""/>
+                            <img class="img-fluid" src="" alt=""/>
                         </div>
                        <!-- Portfolio Modal - Text-->
                                     <p Class="mb-5">                         
