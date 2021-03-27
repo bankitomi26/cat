@@ -47,7 +47,7 @@
                     <div class="divider-custom-line"></div>
                 </div>
                 <!-- Masthead Subheading-->
-                <p class="masthead-subheading font-weight-bold mb-0">Bánki Tamás-St.John the Baptist-BTC</p>
+                <p class="masthead-subheading font-weight-bold mb-0">Bánki Tamás-St. John the Baptist-BTC</p>
             </div>
         </header>
         <!-- Olvasói vélemények Section-->
