@@ -7,7 +7,7 @@
         <meta name="Bánki Tamás" content="" />
         <title>Real decision</title>
         <!-- Favicon-->
-        <link rel="icon" type="image/x-icon" href="1k.jpg" />
+        <link rel="icon" type="image/x-icon" href="13k.png" />
         <!-- Font Awesome icons (free version)-->
         <script src="https://use.fontawesome.com/releases/v5.15.1/js/all.js" crossorigin="anonymous"></script>
         <!-- Google fonts-->
@@ -62,7 +62,8 @@
                     <div class="divider-custom-line"></div>
                 </div>
                 <!-- Portfolio Grid Items-->
-                <div class="row justify-content-center">                
+                <div class="row justify-content-center">
+                
                     <!-- Portfolio Item 2-->
                     <div class="col-md-6 col-lg-4 mb-5">
                         <div class="portfolio-item mx-auto" data-toggle="modal" data-target="#portfolioModal2">
@@ -71,8 +72,9 @@
                             </div>
                             <img class="img-fluid" src="1.png" alt=""/>
                         </div>
-                    </div>                 
-           </section>
+                    </div>                    
+                   
+        </section>
         <!-- About Section-->
         <section class="page-section bg-primary text-black mb-0" id="about">
             <div class="container">
@@ -92,15 +94,17 @@
                 <!-- About Section Button-->
                 <div class="text-center mt-4">
                                     <p class="mb-5">
-                    <a class="btn btn-xl btn-outline-light" href="https://matlab.mathworks.com/">
+                    <a class="btn btn-xl btn-outline-light" href="https://dev-critique.pantheonsite.io/#">
                         <i class="fas fa-bars mr-2"></i>
-                        Research!
+                        Antithesis!
                     </a>
                 </div>
             </div>
         </section>
         <!-- Contact Section-->   
-        <!-- Portfolio Modals-->       
+        <!-- Portfolio Modals-->
+        <!-- Portfolio Modal 1-->
+        
         <!-- Portfolio Modal 2-->
         <div class="portfolio-modal modal fade" id="portfolioModal2" tabindex="-1" role="dialog" aria-labelledby="portfolioModal2Label" aria-hidden="true">
             <div class="modal-dialog modal-xl" role="document">
@@ -122,7 +126,7 @@
                                     </div>
                                    <!-- Portfolio Modal - Image-->
                                     <div class="row">                    
-                                    </div><img class="img-fluid" src="2.png" alt=""/></div>
+                                    </div><img class="img-fluid" src="2.png" alt="https://bankitomi26.github.io/elixir/"/></div>
                                  <!-- Portfolio Modal - Text-->
                                     <p Class="mb-5">                         
                                         </p><div class="modal-body text-center"><p class="lead"></p>"Az alkotási folyamat során a mûvész a szándéktól a megvalósulásig teljes szubjektív reakciók láncolatát járja végig. Harca a megvalósulásért erôfeszítések, fájdalmak, megnyugvások, elutasítások, döntések sora, melyek lehetnek nem teljesen tudatosak, és nem is kell tudatosnak lenniük, esztétikai téren a legkevésbé.E harc eredménye különbség a szándék és a megvalósulás között, olyan különbség, melynek a mûvész egyáltalán nincs tudatában. Ténylegesen hiányzik egy szem a teremtô aktust kísérô reakciók láncolatából. Ez a szakadás, mely a mûvész számára annak lehetetlenségébôl áll, hogy szándékát teljesen kifejezze, a különbség aközött, amit megvalósítani szándékozott, és amit megvalósított - ez az a személyes „mûvészeti együttható" mely a mûben megjelenik. Más szóval: a személyes „mûvészeti együttható" mintegy aritmetikai viszony aközött, „ami kifejezetlen maradt, bár szándékos volt" és aközött, „ami szándék nélkül kifejezésre jutott". A félreértések elkerülése végett megismétlem, hogy ez a „mûvészeti együttható" a „nyersanyag állapotú mûvészet" személyes kifejezése, melyet a nézônek kell „finomítania", mint a melaszból a cukrot. E „mûvészeti együtthatónak" soha nincs befolyása a nézô ítéletére. A mûvészeti folyamat egészen más aspektust ölt, ha a nézô az átalakulás jelenségeivel kerül szembe: az élettelen anyag mûalkotássá változásával igazi transz-szubsztanciáció ment végbe, és a nézô fontos szerepe a mûalkotás súlyának meghatározása az esztétika mérlegén. Összegezve, a mûvész nem az egyetlen, aki a teremtô aktust véghezviszi: ugyanis a nézô hozza létre a mû kapcsolatát a külvilággal, amennyiben a mû mélyebben fekvô tulajdonságait megfejti és értelmezi, és ezáltal létrehozza a maga hozzájárulását a teremtô folyamathoz. Ez a hozzájárulás még nyilvánvalóbb, amikor az utókor hozza meg a végleges ítéletét, elfelejtett mûveket rehabilitálva." </p></div>
@@ -137,6 +141,7 @@
                 </div>
             </div>
         </div>
+        
         <!-- Bootstrap core JS-->
         <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js"></script>
